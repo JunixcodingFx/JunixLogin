@@ -12,11 +12,7 @@ Das Projekt ist bewusst einfach gehalten und basiert ausschließlich auf HTML un
 
 ## Preview
 
-preview\.png
-
-Falls noch kein Bild vorhanden ist, kannst du einfach einen Screenshot deiner Seite erstellen und als `preview.png` in dein Repository legen.
-
-***
+![bild](image.png)
 
 ## Features
 
