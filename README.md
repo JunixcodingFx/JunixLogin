@@ -56,7 +56,7 @@ Das Design kann problemlos angepasst werden:
 ```
 JunixLogin/
 │
-├── index.html
+├── Login.html
 ├── preview.png
 └── README.md
 ```
@@ -83,6 +83,11 @@ Changes of any kind are allowed without restriction.
 The only requirement is that the original author is mentioned in the project.
 
 The software is provided "as is", without warranty of any kind.
+
+## Contributors
+
+- [jonathan.t](https://github.com/JunixcodingFx)  
+- [mjadventurehost](https://github.com/mjadventurehost)
 
 ***
 
