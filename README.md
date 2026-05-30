@@ -1,10 +1,8 @@
 # JunixLogin
-
-<https://img.shields.io/badge/HTML-5-orange>  
-<https://img.shields.io/badge/CSS-3-blue>  
-<https://img.shields.io/badge/Design-Responsive-green>  
-<https://img.shields.io/badge/status-active-success>
-
+<img src="https://img.shields.io/badge/HTML-5-orange">  
+<img src="ttps://img.shields.io/badge/CSS-3-blue">  
+<img src="https://img.shields.io/badge/Design-Responsive-green">  
+<img src="https://img.shields.io/badge/status-active-success">
 JunixLogin ist eine moderne Login-Oberfläche mit klarem Fokus auf Design und Benutzerfreundlichkeit.  
 Das Projekt ist bewusst einfach gehalten und basiert ausschließlich auf HTML und CSS, wodurch es leicht in bestehende Projekte integriert werden kann.
 
